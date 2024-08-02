@@ -17,11 +17,5 @@ h1, h2, h3 {
 }
 
 .red {
-  color: red;
-  font-size: 50px;
-  font-weight: bold;
-}
-
-.green {
-  color: green;
+  background-color: red;
 }
