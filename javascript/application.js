@@ -36,7 +36,7 @@ const abbaMembers = document.querySelectorAll('.abba');
 
 abbaMembers.forEach((member) => {
   const instrument = member.dataset.instrument;
-  member.innerText += `- ${instrument}`;
+  member.innerText += ` - ${instrument}`;
 })
 
 const buttons = document.querySelectorAll('button');
